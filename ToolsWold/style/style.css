@@ -1,6 +1,8 @@
 .estilo1{font-family: Titulo;font-size: 100px;color:#FFF; text-align:left; padding-top:30px; 
 }
-.estilo2{font-family: label;font-size: 25px;color:#FFF;   
+.estilo2{font-family: label;font-size: 25px;color:#FFF;text-align:center;   
+}
+.estilo3{font-family: Titulo;font-size: 100px;color:#ef5656; text-align:center; padding-top:30px; 
 }
 .button{background:#09F;
 color:#FFF; border-color:#09F;width:100px; height:35px;font-size:18px;
@@ -192,7 +194,7 @@ p {
 	line-height:15px;
 }
 #nav li a {
-	color:#4b4641;
+	color:#fff;
 }
 #nav li a:hover {
 	color:#fff;
@@ -211,16 +213,17 @@ p {
 	z-index:50;
 }
 #nav li ul a {
-	width:190px;
+	width:210px;
 	float:left;
 	padding-right:0;
 	font-size:14px;
 	font-family:'MyriadPro-Regular';
 	font-weight:normal;
 	border-bottom:1px solid #70c3c7;
+	background:#09F;
 }
 #nav li ul li a:hover {
-	background:#62c5ca;
+	background:#09F;
 	color:#FFF;
 }
 #nav ul ul {

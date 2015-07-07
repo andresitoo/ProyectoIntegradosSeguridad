@@ -37,9 +37,9 @@
     <div id="nav_wrapper">
     
       <ul id="nav">
-        <li class="current_page_item"><a href="index.html">Facturación</a></li>
-        <li  ><a href="about.html">Inventario</a></li>
-        <li><a href="#">Seguridad</a> </li>
+        <li><a href="index.html">Facturación</a></li>
+        <li><a href="about.html">Inventario</a></li>
+        <li><a href="pages/Seguridad/index.php">Seguridad</a> </li>
         <li><a href="loginUsuario.php">Salir</a> </li>
       </ul>
     </div>
